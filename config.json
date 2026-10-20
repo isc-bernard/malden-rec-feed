@@ -1,0 +1,6 @@
+{
+  "site": "https://maldenma.myrec.com",
+  "days_ahead": 180,
+  "exclude_title_contains": ["Park Renovations"],
+  "max_rss_items": 60
+}
